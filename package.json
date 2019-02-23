@@ -1,0 +1,23 @@
+{
+  "name": "http2-server",
+  "version": "1.0.0",
+  "description": "A http2 server with node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akgurjar/http2-server.git"
+  },
+  "keywords": [
+    "http2",
+    "node"
+  ],
+  "author": "Ashish Gurjar <ashishkgurjar@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/akgurjar/http2-server/issues"
+  },
+  "homepage": "https://github.com/akgurjar/http2-server#readme"
+}
